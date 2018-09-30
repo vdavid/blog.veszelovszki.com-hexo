@@ -9,6 +9,8 @@ keywords:
   - articles
 tags:
   - meta
+thumbnailImage: aliens.jpg
+coverImage: aliens.jpg
 ---
 This is a stub for my blog that I'm going to start writing soon. I have the following ideas for articles to write:
 
