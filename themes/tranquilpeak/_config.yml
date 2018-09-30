@@ -59,27 +59,19 @@ sidebar:
     author_links:
         github:
             title: global.github
-            url: https://github.com/
+            url: https://github.com/vdavid
             icon: fab fa-github
         stack_overflow:
             title: global.stack_overflow
-            url: http://stackoverflow.com/users
+            url: https://stackoverflow.com/users/384564/
             icon: fab fa-stack-overflow
-        twitter:
-            title: global.twitter
-            url: https://twitter.com/
-            icon: fab fa-twitter
         facebook:
             title: global.facebook
-            url: https://facebook.com/
+            url: https://fb.com/veszelovszki
             icon: fab fa-facebook
-        google_plus:
-            title: global.google_plus
-            url: https://plus.google.com/
-            icon: fab fa-google-plus
         linked_in:
             title: global.linkedin
-            url: https://www.linkedin.com/profile/
+            url: https://www.linkedin.com/in/veszelovszki/
             icon: fab fa-linkedin
         mail:
             title: global.mail
@@ -117,7 +109,7 @@ header:
 
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
+    email: veszelovszki@gmail.com
     location:
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
@@ -207,11 +199,11 @@ gitment:
 # -------------------
 
 # Your Google analystics web property ID : UA-XXXXX-X
-google_analytics_id:
+google_analytics_id: UA-35619737-3
 # Your Baidu analystics web property ID : 9505a5af654a2478f93fd6c0ae4f687d
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-gravatar_email:
+gravatar_email: veszelovszki@gmail.com
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
