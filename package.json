@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.7.1"
   },
+  "scripts": {
+    "postinstall": "cd themes/tranquilpeak && npm install"
+  },
   "dependencies": {
     "hexo": "^3.7.0",
     "hexo-generator-archive": "^0.1.5",
