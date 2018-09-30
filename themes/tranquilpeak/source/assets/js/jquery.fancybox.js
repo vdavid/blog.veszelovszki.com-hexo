@@ -3414,7 +3414,7 @@
 		var current  = instance.current;
 		var $content = current.$content;
 
-		var isTouchDevice = ( e.type === 'touchstart' );
+		var isTouchDevice = ( e.type == 'touchstart' );
 
 		// Do not respond to both events
 		if ( isTouchDevice ) {

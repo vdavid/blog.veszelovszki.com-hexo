@@ -187,7 +187,7 @@
          * @returns {void}
          */
         showOverlay: function () {
-            let body = $('body');
+            var body = $('body');
             body.append('<div class="overlay"></div>');
             $('.overlay').fadeIn();
             body.css('overflow', 'hidden');

@@ -53,8 +53,8 @@
 			self.$button = instance.$refs.toolbar.find( '[data-fancybox-thumbs]' );
 
 			if ( self.opts && first && second && (
-		    		( first.type === 'image'  || first.opts.thumb  || first.opts.$thumb ) &&
-		    		( second.type === 'image' || second.opts.thumb || second.opts.$thumb )
+		    		( first.type == 'image'  || first.opts.thumb  || first.opts.$thumb ) &&
+		    		( second.type == 'image' || second.opts.thumb || second.opts.$thumb )
 			)) {
 
 				self.$button.show().on('click', function() {
