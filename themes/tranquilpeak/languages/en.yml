@@ -76,6 +76,6 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: "Coder, traveler, diver, student. <a href=\"https://codeberryschool.com\">CodeBerry</a> founder since 2016, helping people learn coding. It's my favorite workplace so far. :) My dream is to provide accessible, fun education to the world."
+    bio: "Coder, traveler, diver, student. <a href=\"https://codeberryschool.com\" target=\"_blank\">CodeBerry</a> founder since 2016, helping people learn coding. It's my favorite workplace so far. :) My dream is to provide accessible, fun education to the world."
     # Your job
     job: "Founder at CodeBerry"
