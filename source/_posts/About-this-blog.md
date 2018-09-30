@@ -1,7 +1,14 @@
 ---
 title: About this blog
 date: 2018-09-30 20:30:45
+keywords:
+  - meta
+  - about
+  - content
+  - ideas
+  - articles
 tags:
+  - meta
 ---
 This is a stub for my blog that I'm going to start writing soon. I have the following ideas for articles to write:
 
