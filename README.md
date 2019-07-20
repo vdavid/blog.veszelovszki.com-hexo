@@ -37,4 +37,3 @@
 - Download latest version from its [website](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/)
 - Delete old version and copy new one to the `themes` folder.
 - Review _config.yml line by line, revert most (or all) changes
-- Make sure to remove the `assets` line from the theme's `.gitignore` file. It screws Netlify's build if it's in there.
