@@ -5,6 +5,9 @@
 - Run<br>`hexo new post <article-slug>`
 - Open newly created md file and enter the article title in the header.
 
+## Testing
+- Use `hexo server` then see the site at http://localhost:4000. It will auto-update (press F5 after changes). 
+
 ## Adding assets
 - Images and other files: Just paste them to the `source/_posts/{article-slug}` folder
 - Pages: Run<br>`hexo new page <page-slug>`
@@ -21,3 +24,4 @@
 
 - Run<br>`hexo generate`
 - Push it to `master`.
+- The blog is at https://blog.veszelovszki.hu.
