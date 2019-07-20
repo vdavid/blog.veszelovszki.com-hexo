@@ -559,7 +559,7 @@ figure.highlight,
     }
     // YAML
     &.yml {
-        .line,
+        .line
         .attr {
             color: map-get($highlight-colors, asparagus);
         }

@@ -3,7 +3,7 @@
   /**
    * Search index in an array with a regex
    * @param {String} str
-   * @param {RegExp} regex
+   * @param {Regex} regex
    * @param {Number} startpos
    * @return {Number}
    */

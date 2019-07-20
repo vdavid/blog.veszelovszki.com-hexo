@@ -32,7 +32,7 @@
     -webkit-transition:          -webkit-transform .25s ease-in-out;
     // Eliminate any flickering of elements while they are in a state of being animated
     -webkit-backface-visibility: hidden;
-    -webkit-perspective:         1000px;
+    -webkit-perspective:         1000;
 
     .post-header {
         display:        table-cell;

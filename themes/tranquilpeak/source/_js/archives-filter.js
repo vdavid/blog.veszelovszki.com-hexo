@@ -49,7 +49,7 @@
      * @returns {String} The date entered by the user
      */
     getSearch: function() {
-      return this.$searchInput.val().replace(/([\/|.-])/g, '').toLowerCase();
+      return this.$searchInput.val().replace(/([\/|.|-])/g, '').toLowerCase();
     },
 
     /**
@@ -106,7 +106,7 @@
         this.$archiveResult.html(this.messages.one).show();
       }
       else {
-        this.$archiveResult.html(this.messages.other.replace(/{n}/, numbPosts)).show();
+        this.$archiveResult.html(this.messages.other.replace(/\{n\}/, numbPosts)).show();
       }
     },
 

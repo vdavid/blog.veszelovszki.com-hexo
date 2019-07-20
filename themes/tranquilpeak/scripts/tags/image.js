@@ -4,15 +4,14 @@
   /**
    * search index in an array with a regex
    * @param {Array} array
-   * @param {RegExp} regex
+   * @param {Regex} regex
+   * @param {Number} startpos
    * @return {Number}
    */
   function reIndexOf(array, regex) {
-    for (let i in this) {
-      if (this.hasOwnProperty(i)) {
-          if (array[i].toString().match(regex)) {
-              return i;
-          }
+    for (var i in this) {
+      if (array[i].toString().match(regex)) {
+        return i;
       }
     }
     return -1;
