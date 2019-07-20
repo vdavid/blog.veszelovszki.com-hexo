@@ -13,8 +13,9 @@ tags:
 thumbnailImage: aliens.jpg
 coverImage: aliens.jpg
 ---
-This is a stub for my blog that I'm going to start writing soon. I have the following ideas for articles to write:
-<!-- more -->
+This is a stub for the blog I'm starting. Here are my ideas for articles to write.
+<!-- excerpt -->
+This is a stub for the blog I'm starting. Here are my ideas for articles to write:
 
 ## Next up
 
