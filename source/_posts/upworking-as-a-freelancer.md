@@ -1,7 +1,17 @@
 ---
 title: Upworking
 date: 2018-11-07 17:54:26
+keywords:
+  - freelancing
+  - upwork
+  - work
+  - remote
+  - tips
 tags:
+  - howto
+  - english
+thumbnailImage: upwork-logo-280.png
+coverImage: upwork-logo-1366x403.png
 ---
 
 Here are my best tips on getting started with a freelancer career on [Upwork](https://upwork.com).
@@ -40,7 +50,7 @@ I'll elaborate on each step below.
 
 ### Any tips for creating a profile?
 
-<a href="upwork-applications/" target="_blank">Upwork applications</a>
+<a href="/upwork-applications" target="_blank">Upwork applications</a>
 
 
 I mostly did development projects, but some research
