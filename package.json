@@ -7,7 +7,7 @@
   },
   "scripts": {
     "debug": "node --inspect=4300 ./node_modules/hexo-cli/bin/hexo server",
-    "postinstall": "cd themes/tranquilpeak && npm install"
+    "postinstall": "cd themes/tranquilpeak && npm install && npm run prod"
   },
   "dependencies": {
     "hexo": "^3.9.0",
