@@ -10,8 +10,8 @@ keywords:
 tags:
   - meta
   - english
-thumbnailImage: aliens.jpg
-coverImage: aliens.jpg
+thumbnailImage: aliens-280.jpg
+coverImage: aliens-1920x423.jpg
 ---
 This is a stub for the blog I'm starting. Here are my ideas for articles to write.
 <!-- excerpt -->
