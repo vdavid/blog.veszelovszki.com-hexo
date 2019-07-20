@@ -1,3 +1,9 @@
+# Overview
+
+- Git repo is here: https://github.com/vdavid/blog.veszelovszki.hu-hexo/
+- Netlify deploy settings are here: https://app.netlify.com/sites/gallant-hodgkin-575fcf/deploys
+
+# Common tasks
 ## Creating new new blog post
 
 - Open my [article ideas spreadsheet](https://docs.google.com/spreadsheets/d/1oxPuH4ZkkKty4QoBaoM27OCdgCCKFu4WHwZYn9XLn1M/edit#gid=0)
