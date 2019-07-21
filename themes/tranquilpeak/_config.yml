@@ -37,11 +37,11 @@ sidebar:
     english:
       title: English articles
       url: /tags/english
-      icon: fa fa-home
+      icon: fa fa-flag-usa
     hungarian:
-      title: Magyar nyelvű írások
-      url: /tags/magyar
-      icon: fa fa-home
+      title: Magyar írások
+      url: /tags/hungarian
+      icon: fa fa-flag
     #        categories:
     #            title: global.categories
     #            url: /all-categories

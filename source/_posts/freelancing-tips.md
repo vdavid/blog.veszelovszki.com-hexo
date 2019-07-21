@@ -3,17 +3,16 @@ title: Freelancing tips
 date: 2018-11-07 17:54:26
 comments: true
 keywords:
-  - freelancing
-  - upwork
-  - work
-  - remote
-  - tips
+ - freelancing
+ - upwork
+ - work
+ - remote
+ - tips
+ - howto
 tags:
-  - howto
-  - english
+ - english
 categories:
-  - howto
-  - english
+ - entrepreneurship
 disqusIdentifier: Cr3t4WuU5HnPO9zKbyRh
 thumbnailImage: upwork-logo-280.png
 coverImage: upwork-logo-1366x403.png

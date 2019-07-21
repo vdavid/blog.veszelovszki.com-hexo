@@ -3,17 +3,15 @@ title: Article ideas
 date: 2018-09-30 20:30:45
 comments: true
 keywords:
-  - meta
-  - about
-  - content
-  - ideas
-  - articles
+ - meta
+ - about
+ - content
+ - ideas
+ - articles
 tags:
-  - meta
-  - english
+ - english
 categories:
-  - meta
-  - english
+ - meta
 disqusIdentifier: c7B2j2bT7eE84siqc
 thumbnailImage: salad-280.jpg
 coverImage: aliens-1920x423.jpg
