@@ -37,3 +37,4 @@
 - Download latest version from its [website](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/)
 - Delete old version and copy new one to the `themes` folder.
 - Review _config.yml line by line, revert most (or all) changes
+- In `languages/en.yml`, make sure not to overwrite the `author.bio` and `author.job` texts at the bottom.
