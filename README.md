@@ -22,8 +22,9 @@
 
 - Link: `[text](url)`
 - Image: `{% asset_img example-image.jpg This is an example image %}`
-- Link: `{% asset_link slug title %}`
-- Path: `{% asset_path filename.ext %}`
+  (Put image in a folder with the same name as the post filename in `_posts`)
+- Asset link: `{% asset_link slug title %}`
+- Asset path: `{% asset_path filename.ext %}`
 - More tips in [theme documentation](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md).
 
 ## Publishing a blog post

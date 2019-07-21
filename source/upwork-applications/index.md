@@ -1,12 +1,11 @@
 ---
 title: 4 successful Upwork applications
 date: 2018-11-07 22:19:08
-hidden: true
 ---
 Some examples of my Upwork applications that were successful.
 <!-- excerpt -->
 
-About 50% of my job applications were successful on Upwork. For many of them there were 30+ applications.
+About 50% of my job applications were successful on Upwork. For many of them there were 30+ other applications.
 
 Try to read these from the perspective of the client. What would you think and feel if you read these applications? I think this question is crucial when writing them.
 

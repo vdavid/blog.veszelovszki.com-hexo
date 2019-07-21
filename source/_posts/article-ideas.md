@@ -1,6 +1,7 @@
 ---
-title: About this blog
+title: Article ideas
 date: 2018-09-30 20:30:45
+comments: true
 keywords:
   - meta
   - about
@@ -10,16 +11,21 @@ keywords:
 tags:
   - meta
   - english
+categories:
+  - meta
+  - english
+disqusIdentifier: @c7@B2j2bT7eE84si^qc
 thumbnailImage: aliens-280.jpg
 coverImage: aliens-1920x423.jpg
 ---
-This is a stub for the blog I'm starting. Here are my ideas for articles to write.
+Ez az első poszt a blogon. Itt vannak az ötleteim, hogy mikről írnék.
+I'm just starting this blog. Here are my ideas for articles to write.
 <!-- excerpt -->
 This is a stub for the blog I'm starting. Here are my ideas for articles to write:
 
 ## Next up
 
-- **Upwork tips (as a contractor)**: Enti is waiting for it very much
+- **Freelancing tips**: Some friends are waiting for it very much
 
 ## Business
 
@@ -77,3 +83,7 @@ This is a stub for the blog I'm starting. Here are my ideas for articles to writ
 - **Being remote**:  was elaborated on by -
 - **Fundraising**:  was elaborated on by -
 - **Administration**:  was elaborated on by -
+
+## Personal projects
+
+- List of my older projects ([inspiration](https://wajahatkarim.com/categories/))
