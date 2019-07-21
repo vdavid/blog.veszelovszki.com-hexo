@@ -31,10 +31,17 @@ image_dir: assets/images
 sidebar:
   menu:
     home:
-      title: global.home
+      title: Home
       url: /
       icon: fa fa-home
-
+    english:
+      title: English articles
+      url: /tags/english
+      icon: fa fa-home
+    hungarian:
+      title: Magyar nyelvű írások
+      url: /tags/magyar
+      icon: fa fa-home
     #        categories:
     #            title: global.categories
     #            url: /all-categories
@@ -53,19 +60,19 @@ sidebar:
     #            icon: fa fa-search
     #            # `open-algolia-search` classes are used to open algolia search modal
     #            class: open-algolia-search
-    about:
-      title: global.about
-      url: /#about
-      icon: fa fa-question
+#    about:
+#      title: global.about
+#      url: /#about
+#      icon: fa fa-question
   author_links:
-    github:
-      title: global.github
-      url: https://github.com/vdavid
-      icon: fab fa-github
-    stack_overflow:
-      title: global.stack_overflow
-      url: https://stackoverflow.com/users/384564/
-      icon: fab fa-stack-overflow
+#    github:
+#      title: global.github
+#      url: https://github.com/vdavid
+#      icon: fab fa-github
+#    stack_overflow:
+#      title: global.stack_overflow
+#      url: https://stackoverflow.com/users/384564/
+#      icon: fab fa-stack-overflow
     facebook:
       title: global.facebook
       url: https://fb.com/veszelovszki

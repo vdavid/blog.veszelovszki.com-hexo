@@ -25,6 +25,8 @@ thumbnailImage: image-name-in-article-folder.jpg
 coverImage: image-name-in-article-folder.jpg
 hidden: false
 ```
+- Write the post
+- Use Google Docs to spellcheck the post
 
 ## Testing
 - Use `hexo server` then see the site at http://localhost:4000. It will auto-update (press F5 after changes). 
