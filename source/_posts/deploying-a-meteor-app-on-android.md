@@ -1,13 +1,15 @@
 ---
 title: Deploying a meteor app on Android
 date: 2015-12-01 15:03:00
+comments: true
 tags:
  - meteor
  - javascript
 categories:
  - programming
 disqusIdentifier: M5AWeJD9ppiZ41V4kJo4
-thumbnailImage: /images/default-post-thumbnail-280.png
+thumbnailImage: ../images/default-post-thumbnail-280.png
+coverImage: 
 hidden: false
 ---
 An old article from 2015, when I fiddled with Meteor on Android.

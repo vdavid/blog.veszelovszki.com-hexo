@@ -13,7 +13,7 @@ disqusIdentifier: NdBFi3XBx4XY6cU3u5tZ
 thumbnailImage: men-fat-loss-280.png
 hidden: false
 ---
-Kutattam egy sort az interneten, hogy hogyan érdemes megpróbálni fogyni pár kilót. A legfontosabb tanulságokat próbáltam röviden összegezni.
+Kutattam egy sort az interneten, mit érdemes csinálni, hogy fogyjak pár kilót. Megpróbálom ideösszegezni a tanulságokat.
 <!-- excerpt -->
 2013-ban 83 kiló voltam. 2018-ban 86–88. Arra gondoltam, szívesen lennék újra 83. Sokat olvastam és tapasztaltam azóta a témában. Most ~84 vagyok. Megosztok pár gondolatot, hogy talán segítsek, ha hasonló terved van.
 

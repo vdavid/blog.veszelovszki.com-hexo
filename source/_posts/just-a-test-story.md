@@ -1,10 +1,14 @@
 ---
 title: Just a test story
 date: 2018-02-19 08:34:19
+comments: true
+keywords:
 tags:
  - fun
+categories:
 disqusIdentifier: 73XT54UQqpJ6IQoEqefI
-thumbnailImage: /images/default-post-thumbnail-280.png
+thumbnailImage: ../images/default-post-thumbnail-280.png
+coverImage: 
 hidden: false
 ---
 Blah blah blah… Here’s a picture of me eating a rabbit
