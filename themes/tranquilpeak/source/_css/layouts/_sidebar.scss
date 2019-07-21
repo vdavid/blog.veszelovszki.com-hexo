@@ -32,6 +32,11 @@
             font-size: 1.1em;
             color:     map-get($sidebar, color);
         }
+
+        .sidebar-profile-bio {
+            a { color: #fad; }
+            a:hover { color: #fdd; }
+        }
     }
     // Sidebar's buttons
     ul.sidebar-buttons {
