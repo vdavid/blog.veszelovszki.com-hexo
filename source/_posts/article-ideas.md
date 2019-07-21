@@ -14,9 +14,10 @@ tags:
 categories:
   - meta
   - english
-disqusIdentifier: @c7@B2j2bT7eE84si^qc
+disqusIdentifier: c7B2j2bT7eE84siqc
 thumbnailImage: aliens-280.jpg
 coverImage: aliens-1920x423.jpg
+hidden: false
 ---
 Ez az első poszt a blogon. Itt vannak az ötleteim, hogy mikről írnék.
 I'm just starting this blog. Here are my ideas for articles to write.

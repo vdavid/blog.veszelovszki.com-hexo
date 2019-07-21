@@ -14,15 +14,14 @@ tags:
 categories:
   - howto
   - english
+disqusIdentifier: Cr3t4WuU5HnPO9zKbyRh
 thumbnailImage: upwork-logo-280.png
 coverImage: upwork-logo-1366x403.png
 hidden: true
 ---
-
 Here are my best tips on getting started with a freelancer career on [Upwork](https://upwork.com).
-
-A Q&A format seems reasonable.
 <!-- more -->
+A Q&A format seems reasonable.
 
 ### So, who are you, what's your experience?
 
