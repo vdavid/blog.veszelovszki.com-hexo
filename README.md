@@ -27,6 +27,8 @@ hidden: false
 ```
 - Write the post
 - Use Google Docs to spellcheck the post
+- For the thumbnail image, the small image size is 140x140px, use 280x280 to consider retina screens!
+- For cover images, use 1920x400ish images
 
 ## Testing
 - Use `hexo server` then see the site at http://localhost:4000. It will auto-update (press F5 after changes). 
