@@ -15,7 +15,7 @@ categories:
   - meta
   - english
 disqusIdentifier: c7B2j2bT7eE84siqc
-thumbnailImage: aliens-280.jpg
+thumbnailImage: salad-280.jpg
 coverImage: aliens-1920x423.jpg
 hidden: false
 ---
