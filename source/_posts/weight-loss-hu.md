@@ -39,7 +39,7 @@ Egészen átalakította, hogy mit gondolok a túlsúlyról.
 
 Ha problémád van azzal, hogy elfogadd a testsúlyod, ajánlom a cikket.
 
-## 2. Elfogadni, hogy az változás lassú
+## 2. Elfogadni, hogy a változás lassú
 
 Ez egy zseniális cikk a témában, nagyon sokat adott: [What Your Microbiome Wants for Dinner](http://nautil.us/issue/31/stress/what-your-microbiome-wants-for-dinner) (2015-12-10, 30 minutes, rating: 8 / 10)
 

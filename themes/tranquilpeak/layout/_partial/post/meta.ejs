@@ -1,7 +1,7 @@
 <div class="<%= (classes ? classes.join(' ') : '') %>">
     <time datetime="<%= post.date.format() %>">
 	<% if (post.lang) { %>
-		    <%= post.date.locale(post.lang).format(__('date_format')) %>
+		    <%= post.date.locale(post.lang).format('YYYY-MM-DD') %>
     	<% } else { %>
 		    <%= post.date.locale(page.lang).format(__('date_format')) %>
     	<% } %>
