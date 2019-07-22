@@ -11,7 +11,7 @@ categories:
  - health
 disqusIdentifier: NdBFi3XBx4XY6cU3u5tZ
 thumbnailImage: men-fat-loss-280.png
-coverImage: fruits-and-vegetables-1920x733.jpg
+coverImage: nuts-seeds-fruits-veggies-1920x853.jpg
 hidden: false
 ---
 Kutattam egy sort az interneten, mit érdemes csinálni, hogy fogyjak pár kilót. Idehordtam a tanulságokat.
@@ -75,11 +75,13 @@ Próbálkoztam korábban az [intermittent fasting](https://jamesclear.com/the-be
 
 ## 4. Folyamatot építeni
 
-Hosszú távon ritkán működik az, hogy kitűzök egy célt és elkezdek érte dolgozni. A legtöbb nap ott lebeg a cél a szemem előtt, de vannak napok, amikor fáradtabb vagyok, kisebb az akaraterőm. Ilyenkor könnyen félrecsúsznak a dolgok, amitől csalódott leszek, és nehezen térek vissza a kijelölt útra. Ennél számomra sokkal könnyebb az, ha egy olyan folyamatot találok, amit élvezek. Ebből könnyen szokást alakítok ki magamnak, és onnan már automatikusan haladok a célom felé. És a cél elérése így már csak melléktermék.
+Hosszú távon ritkán működik az, hogy kitűzök egy célt és elkezdek érte dolgozni. A legtöbb napon ott lebeg a cél a szemem előtt, és haladok felé, ez igaz. De vannak napok, amikor fáradtabb vagyok az átlagosnál, kisebb az akaraterőm. Ilyenkor könnyen félrecsúsznak a dolgok, amitől csalódott leszek, és nehezen térek vissza a kitalált útra, ha csak a cél van előttem. Ennél számomra sokkal könnyebb az, ha egy olyan folyamatot találok, amit nap mint nap élvezek. Ebből könnyen alakítok ki magamnak szokást, és onnan már automatikusan haladok a célom felé, erőfeszítés nélkül. És a cél elérése így már csak melléktermék.
 
-Ez a cikk [The Most Important Question of Your Life](https://markmanson.net/question) (2013-11-06, 14 minutes, rating: 10/10) jól összefoglalja ezt. "Choose your struggles, not your dreams. You must love the process in order to truly pursue your goal, loving just the result is not enough. If you want a nice beach body, you must love suffering in the gym." – szóval ne fogyni akarjak, hanem imádjak egészségesen enni. Az, hogy egészségesebb legyek, és esetleg a fogyás, a folyamat mellékterméke lesz, és csak úgy megtörténik.
+Ez a cikk: [The Most Important Question of Your Life](https://markmanson.net/question) (2013-11-06, 14 minutes, rating: 10/10) nagyon jól összefoglalja ezt. Röviden így foglaltam össze:
 
-Egy példa: sok ideje próbálom magam rávenni a mozgásra. Végre találtam egy módszert, ami eleinte csak napi pár perc, nem igényel különösebb előkészületet, és eleinte elég könnyű is. Ez a Plank Workout [[Android](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight) | [iOS](https://apps.apple.com/us/app/plank-challenge-plank-workout/id1442191346)] nevű app. Nagyon ügyesen rászoktatott a mindennapi mozgásra. Napi 3 perces edzésekkel indít, de az első hónap végére már ~12 perceket kell vele edzeni. Én most kezdtem a második hónapot, és már egészen rutinná vált. Nem kell hozzá eszköz, csak egy puha felület (szőnyeg, jóga matrac, vagy akár csak egy negyedbe hajtott póló a könyököd alá).
+"Choose your struggles, not your dreams. You must love the process in order to truly pursue your goal. Loving just the result is not enough. If you want a nice beach body, you must love suffering in the gym." – szóval ne fogyni akarjak, hanem imádjak egészségesen enni. Az, hogy egészségesebb leszek, és esetleg a le is fogyok, a folyamat mellékterméke lesz, csak megtörténik.
+
+Egy másik példa: sok ideje sikertelenül próbáltam magam rávenni a mozgásra. Végre találtam egy módszert, ami eleinte csak napi pár perc, nem igényel különösebb előkészületet, és eleinte elég könnyű is. Ez a Plank Workout [[Android](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight) | [iOS](https://apps.apple.com/us/app/plank-challenge-plank-workout/id1442191346)] nevű app. Nagyon ügyesen rászoktatott a mindennapi mozgásra. Napi 3 perces edzésekkel indít, de az első hónap végére már ~12 perceket kell vele edzeni. Én most kezdtem a második hónapot, és már egészen rutinná vált. Nem kell hozzá eszköz, csak egy puha felület (szőnyeg, jóga matrac, vagy akár csak egy negyedbe hajtott póló a könyököd alá).
 Jó kemény néha; én azt csináltam, hogy amikor nem sikerült tökéletesen megcsinálni, akkor 1 nappal visszaléptem, és onnan folytattam tovább. A cél nem a gyors siker, hanem az, hogy kialakuljon a rutin.
 
 Na, ezek a gondolataim, remélem, segítettem valamit. További működő tippeket/trükköket szívesen fogadok a kommentekben :)

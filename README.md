@@ -59,3 +59,4 @@ hidden: false
 - Review _config.yml line by line, revert most (or all) changes
 - In `languages/en.yml`, make sure not to overwrite the `author.bio` and `author.job` texts at the bottom.
 - Keep the updated Merriweather fonts, they include Hungarian accents ([Downloaded from here](https://fonts.google.com/specimen/Merriweather?selection.family=Merriweather:300,300i,400,400i,700,700i))
+- Custom CSS is in _hljs-custom.scss, keep it.

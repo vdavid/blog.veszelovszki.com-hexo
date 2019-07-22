@@ -49,3 +49,17 @@ figure.highlight,
 
 }
 */
+
+// Adding missing italic Merriweather version
+@font-face {
+  font-family: 'Merriweather';
+  font-style:  italic;
+  font-weight: 400;
+  src:         local('Merriweather'), url(../fonts/merriweather-italic.ttf) format('truetype');
+}
+
+// Make post cover image slightly dark
+.post-header-cover {
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .2);
+}
+
